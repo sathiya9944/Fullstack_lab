@@ -26,7 +26,7 @@ To develop a basic **Electronic Shop website** and serve it using a **NodeJS ser
 
 8. Add product listings (e.g., mobiles, laptops, TVs) in the HTML page.
 
-9.Run the server using node server.js.
+9. Run the server using node server.js.
 
 Open http://localhost:3000 in a browser to view the site. 
 
