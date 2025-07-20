@@ -6,5 +6,9 @@
 
 ### 3.Create a NodeJS server using Express that creates, reads, updates and deletes students' details and stores them in MongoDB database. The information about the user should be obtained from a HTML form.
 
+### 4.Create a counter using AngularJS.
+
+### 5.Create a Todo application using AngularJSStore the data to a JSON file using a simpleNodeJS server and retrieve the information from the same during page reloads.
+
 
 
